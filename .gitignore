@@ -41,7 +41,7 @@
 #
 !.gitignore
 !.mailmap
-
+!.config
 #
 # Generated files
 #
